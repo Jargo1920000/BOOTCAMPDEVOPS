@@ -28,6 +28,7 @@ All projects are built from scratch and follow common industry practices.
 
 ### Cloud Infrastructure and Linux
 - Provision Linux servers in the cloud
+- server stats performance from https://roadmap.sh/projects/server-stats
 - Deploy and manage applications on virtual machines
 - Install and manage artifact repositories using Nexus
 
